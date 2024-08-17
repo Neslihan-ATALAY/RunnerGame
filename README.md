@@ -1,5 +1,6 @@
-# RunnerGame
+RunnerGame
 Unity 3D Endless Runner Game
+Techcareer.net Unity Game Development Bootcamp Proje Ödevi
 ---------------------------
 Oyunun ismi: Runner Game.
 Oyunun türü: Hyper Casual Game.
